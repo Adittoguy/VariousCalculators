@@ -108,9 +108,7 @@ class Marvellous implements ActionListener
             ResultLabel.setText("Result is : "+iSum);
         }
         catch(Exception eobj)
-        {
-            
-        }
+        {}
     }
 }
 
